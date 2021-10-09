@@ -1,0 +1,21 @@
+.align_top {
+	max-width: 100%;
+	vertical-align: top;
+}
+
+.grid-container {
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 5px;
+}
+.columns {
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+  -webkit-column-gap: 20px;
+  -moz-column-gap: 20px;
+  column-gap: 20px;
+  -webkit-column-width: 33.33333333333333%;
+  -moz-column-width: 33.33333333333333%;
+  column-width: 33.33333333333333%;
+}
