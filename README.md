@@ -1,8 +1,9 @@
 # Social-feed aggregator based on pavelk2's
 
 http://pavelk2.github.io/social-feed/
-
-this brnach only supports twitter at this stage
+using Rahul's CSS masonry grid https://w3bits.com/css-masonry/
+there is also an alternative masonry grid from shaan https://webdevtrick.com/css-masonry-image-grid/
+this branch only supports twitter at this stage
 
 
 
